@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate on **data-driven projects, AI solutions, and cloud-based applications**  
 - 🤔 I’m looking for help with **big data optimization and cybersecurity analytics**  
 - 💬 Ask me about **Python, SQL, Machine Learning, AWS, and Data Analytics**  
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/chehara-devendra-49709b95) | Email: cheharadevendra@gmail.com**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/chehara-devendra-49709b95/) | Email: cheharadevendra@gmail.com**
+- 🌐 Check out my portfolio: **[View My Portfolio](https://chehara1995.github.io/cheharaPortforlio/) **
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love exploring new tech stacks and automating everything! 🚀** 
 <!--
